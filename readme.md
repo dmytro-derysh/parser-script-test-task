@@ -17,7 +17,6 @@ Project is created with:
 To run this project, simply load packages using composer:
 ```
 composer install
-cd src
 ```
 ### Now you are ready to launch the script
 
