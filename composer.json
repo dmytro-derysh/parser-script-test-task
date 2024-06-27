@@ -1,0 +1,13 @@
+{
+    "name": "dmytro-derysh-test-task/parser-script",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^7.8",
+        "paquettg/php-html-parser": "^2.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Exceptions\\": "src/Exceptions/"
+        }
+    }
+}
